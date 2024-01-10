@@ -1,5 +1,10 @@
-### Hi there 👋
+#### Hi there 👋, I am Reenman, Frontend Developer. Currently Pursuing PMP Certification
 
+
+
+- 🔭 I’m currently working on Automation via python
+- I’m currently learning MS AZURE and Kubernetes
+- 
 <!--
 **reenman-05/reenman-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
